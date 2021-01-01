@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2020-12-31T19:50:04-06:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Meta-analysis and Systematic Reviews",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2020-12-31T19:50:04-06:00"
+    }
+  ],
+  "collections": []
+}
